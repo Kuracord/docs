@@ -1,11 +1,11 @@
-# Gateway
+# Gateway v2
 
 ## Gateway Payload structure
 
 ```js
  { 
     op: opcode,
-    t: type,
+    t: type, // Type == Action
     d: data
  }
 ```

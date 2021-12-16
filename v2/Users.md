@@ -90,3 +90,7 @@ Creates new user.
 Logs into user.
 #### Input: `UserLoginParams`
 #### Response: `User`
+
+---
+
+TODO: Make documentation for Relations.
