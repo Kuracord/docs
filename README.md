@@ -6,7 +6,7 @@ Contains documentation for Kuracord REST API.
 
 | Version | URI                                   | Status            |
 |---------|---------------------------------------|-------------------|
-|   v1    | https://api.kuracord.tk/api/v1        | DECOMMISSIONEED   |
+|   v1    | https://api.kuracord.tk/api/v1        | DECOMMISSIONED    |
 |   v2    | https://api.kuracord.tk/api/v2        | DEPRECATED        |
 |   v3    | http://api.keneshin.xyz               | CURRENT           |
 
