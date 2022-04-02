@@ -6,8 +6,9 @@ Contains documentation for Kuracord REST API.
 
 | Version | URI                                   | Status            |
 |---------|---------------------------------------|-------------------|
-|   v1    | https://api.kuracord.tk/api/v1        | DEPRECATED        |
-|   v2    | https://api.kuracord.tk/api/v2        | CURRENT           |
+|   v1    | https://api.kuracord.tk/api/v1        | DECOMMISSIONEED   |
+|   v2    | https://api.kuracord.tk/api/v2        | DEPRECATED        |
+|   v3    | http://api.keneshin.xyz               | CURRENT           |
 
 ## Gateway Versions
 
@@ -15,6 +16,7 @@ Contains documentation for Kuracord REST API.
 |---------|---------------------------------------|------------|
 | v1      | wss://api.kuracord.tk/gateway/v1/chat | DEPRECATED |
 | v2      | wss://gateway.kuracord.tk             | CURRENT    |
+| v3      | ws://gateway.keneshin.xyz             | CURRENT    |
 
 ## Remarks
 
